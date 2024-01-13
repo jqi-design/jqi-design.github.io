@@ -23,5 +23,9 @@ body {
 h1 {
   font-size: 3rem;
   color: teal;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 0.5rem solid blue;
+    background-color: aqua;
 }
 
